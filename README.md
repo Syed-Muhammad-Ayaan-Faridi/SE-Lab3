@@ -6,3 +6,8 @@ I am Familiar with:
 1. Python
 2. C++
 3. C programming language.
+
+My Hobbies are: 
+- Cricket
+* Programming/Coding
++ Content Creation
